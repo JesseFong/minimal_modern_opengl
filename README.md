@@ -18,4 +18,4 @@ https://litasa.github.io/blog/2017/09/04/OpenGL-MultiDrawIndirect-with-Individua
 NVIDIA's Bindless Graphgics Tutorial
 https://www.nvidia.com/en-us/drivers/bindless-graphics/
 
-![Image](https://github.com/JesseFong/github_photos/blob/master/minimal_bindless_opengl.PNG "Triangles Are What We Are Looking At Here... So Many Trianges Drawn So Fast. I Can't Hadle How Fast These Triangles Are Being Drawn.....Dammmmm")
+![Image](https://github.com/JesseFong/github_photos/blob/master/minimal_bindless_opengl.PNG "Triangles Are What We Are Looking At Here... So Many Trianges Drawn So Fast. I Can't Hadle How Fast These Triangles Are Being Drawn.....Dammmmmnnnn")
