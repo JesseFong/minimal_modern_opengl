@@ -1,5 +1,5 @@
 
-Minimal DSA/Bindless/Multidraw OpenGL by Jesse Fong
+Minimal DSA/Bindless/Multidraw OpenGL
 
 Inspired by: https://gist.github.com/ALEXMORF/47ce69b2b6c7cc4184680f5bfa2c8d9d
  
@@ -17,3 +17,5 @@ https://litasa.github.io/blog/2017/09/04/OpenGL-MultiDrawIndirect-with-Individua
 
 NVIDIA's Bindless Graphgics Tutorial
 https://www.nvidia.com/en-us/drivers/bindless-graphics/
+
+![Image](https://github.com/JesseFong/github_photos/blob/master/minimal_bindless_opengl.PNG "Triangles Are What We Are Looking At Here... So Many Trianges Drawn So Fast. I Can't Hadle How Fast These Triangles Are Being Drawn.....Dammmmm")
